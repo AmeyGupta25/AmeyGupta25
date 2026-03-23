@@ -4,6 +4,6 @@
 
 🎓 Data Science @ UCSD | ⚙️ Data & AI Engineer | 📍 LA ↔ San Diego
 
-**Check out my [portfolio](https://ameygupta.com)!**
+**Check out my [website](https://ameygupta.com)!**
 
 </div>
